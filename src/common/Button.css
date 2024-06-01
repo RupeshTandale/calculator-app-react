@@ -1,0 +1,9 @@
+.btn{
+    height: 50px;
+    width: 50px;
+    background: linear-gradient(135deg, rgb(252, 4, 4), rgb(252, 141, 141));
+    text-align: center;
+    font-weight: bold;
+    margin: 5px;
+    border-radius: 50px;
+}

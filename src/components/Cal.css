@@ -1,0 +1,17 @@
+.cal-box{
+    width: 235px;
+    border: 2px solid black;
+    padding: 10px 15px;
+    border-radius: 15px;
+    background-color: #202020aa;
+}
+
+.cal-box h3{
+    border: 2px solid black;
+    background-color: #fff;
+    height: 40px;
+    border-radius: 10px;
+    text-align:right;
+    overflow: auto;
+
+}
